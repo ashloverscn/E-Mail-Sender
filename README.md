@@ -18,7 +18,7 @@ This Flask application allows you to send emails through a simple web interface.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/flask-email-sender.git
+    git clone https://github.com/ashloverscn/flask-email-sender.git
     cd flask-email-sender
     ```
 
